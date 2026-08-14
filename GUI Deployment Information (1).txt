@@ -1,0 +1,23 @@
+GUI Deployment Information
+
+The GUI for this project was developed using Gradio and deployed locally through a browser-based interface.
+
+Since the application runs on localhost, the link is accessible only while the notebook/code is actively running on the system.
+
+Instructions to Run the GUI:
+1. Download model file(efficientnetb4.pth) and notebook/code(efficientnetb4(GUI code).ipynb) from the shared Google Drive folder.
+2. Ensure the model file(efficientnetb4.pth) and notebook/code(efficientnetb4(GUI code).ipynb) are placed in the same directory.
+3. Open the provided Google Colab notebook(efficientnetb4(GUI code).ipynb).
+4. Run all cells/code blocks completely.
+5. Click the generated Gradio link (localhost/public link) to launch the GUI in the browser.
+
+The shared folder contains:
+- Project PPT
+- Synopsis
+- Project Report
+- AI Report
+- Model File
+- Source Code / Colab Notebook
+- GUI Code
+
+The system will classify uploaded images as AI-generated or Human-created and display the corresponding Grad-CAM visualization.
